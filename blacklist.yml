@@ -74,6 +74,9 @@ expressions:
   - \bротик
   - \bеблан(ы|чик)
   - \bшлю(ха|хи)
+  - \bдура
+  - \bбезмамн(ый|ая|ые)
+  - \bбез мамы
   # Swearing (English)
   - \basshole
   - \bbitch
