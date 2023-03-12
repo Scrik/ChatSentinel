@@ -7,8 +7,7 @@ expressions:
   - ([a-zA-Z0-9\-\.]+\s?(\.|dot|\(dot\)|-|;)(com|org|net|cz|co|uk|sk|su|tk|biz|mobi|xxx|eu|nu|io|gg|ru|xyz|cc|fun|gomc|aternos|russianodes|gamely|serv|tv|tcp|ngrok|joinserver|ploudos))
   - \b(.{2,8})(\b|[+-.,$#!@%^&=~]|(.{2,8}))(([^А-Яа-я][rр][^А-Яа-я]?u|r[^А-Яа-я]?u)|(n[^А-Яа-яa-z]?[eе][^А-Яа-яa-z]?[tт]|[^А-Яа-яa-z]{0,2}[^А-Яа-яa-z]{0,2}e[^А-Яа-яa-z]{0,2}[tт]|[nн][^А-Яа-яa-z]{0,2}[eе][^А-яA-z]{0,2}t)|p[^А-Яа-я]{0,2}r[^А-Яа-я]{0,2}[o0о])\b
   - '[dд]?[iи]?[sс]?[кcс]?[oо]?[rр]?[dд]?.{0,2}gg.{0,2}[^а-яА-Я]{9,10}'
-  - (m.?c\.)
-  - (p.?.?l.?a.?y\.)
+  - (m.?c\.)|(p.?.?l.?a.?y\.)
   - ([(][.][)])
   # Swearing (English)
   - \basshole
