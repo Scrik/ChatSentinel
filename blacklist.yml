@@ -51,12 +51,35 @@ expressions:
   # Spaglish
   - \bidiot(a)?
  # Insulting
-  - \bма(ть|му|мку|мки)
+  - \bма(тери|ть|му|мку|мки)
   - \bмамаш(а|у)
   - \bбезмамн(ый|ая|ые)
   - \bбез мам(ы|ный|ная)
-  - \bматери
-  - \bпапаша
-  - \bротик
+  - \bпап(а|аши|ша
   - \bсер(в|ер) говн(о|ище)
+  # Cheat client
+  - \bakrien
+  - \bакриен
+  - \bcelestial
+  - \bцелестиал
+  - \bminced
+  - \bминсед
+  - \brusherhack
+  # Server Name
+  - \bhypixel
+  - \bхайпиксель
+  - \bраст ми
+  - \b2b2t
+  - \b2 b 2 t
+  - \b2 b 2 t
+  - \b2builders2tools
+  - \b2builders 2tools
+  - \b2б2т
+  - \b2 б 2 т
+  - \bтубитути
+  - \bтуби тути
+  - \b6g6s
+  - \b6г6с
+  - \b6b6t 
+  - \b6б6т
   
