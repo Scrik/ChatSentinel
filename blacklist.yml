@@ -10,6 +10,14 @@ expressions:
   - (m.?c\.)
   - (p.?.?l.?a.?y\.)
   - ([(][.][)])
+  # Swearing (English)
+  - \basshole
+  - \bbitch
+  - \bcunt
+  - \bdick
+  - \bfuck(er)?
+  - \bloser
+  - \bpussy
   # Swearing (Russia)
   - '[дd].?[аa].?[yу].?[нh]'
   - п.?[иi].?([з3z]|).?д.?([aа]\b|[aаoо][рp]|[yу][йи]\b)
@@ -23,3 +31,23 @@ expressions:
   - '\b([3зz][aао0]|[yу]|)[eе][бb6]([yу]|[aа]([лl]|[nн][aа][я9(ji|9i)]|[kк])|[иi]|[eе][tт]\b|\b)'
   - 'м[aа0oо]л[aа0oо]фья'
   - (\b(на|а|при|о|по|)[xх][уyeе][йipреeлlтt]([nн][я9(ji|9i)]|[cс][0oо][cс](.{0,3}?)|[tt][bь]|)\b)
+  # Swearing (Spanish)
+  - \bboludito
+  - \bchot(o|a)
+  - \bconcha
+  - \b(ca|k)gon
+  - \bforrit(o|a)
+  - \bfracasad(o|a)
+  - \bgarcha
+  - \bimbecil
+  - \bmaric(on|a)
+  - \bmierda
+  - \bojete
+  - \bput(o|a|ito)
+  - \bpija
+  - \bpelotudo
+  - \bporonga
+  - \brat(a|ita)
+  - \btrol(o|a)
+  # Spaglish
+  - \bidiot(a)?
