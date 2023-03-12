@@ -84,6 +84,7 @@ expressions:
   - \bдур(ы)
   - \bбезмамн(ый|ая|ые)
   - \bбез мамы
+  - \bсерв(ер) говн(о|ище)
   # Swearing (English)
   - \basshole
   - \bbitch
@@ -134,4 +135,3 @@ expressions:
   - \btrol(o|a)
   # Spaglish
   - \bidiot(a)?
-  
